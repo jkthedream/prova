@@ -1,0 +1,27 @@
+section{
+    color: black;
+    background-color: white;}
+body{
+    color: black;
+    background-color: white;
+    width: auto;
+}
+h1{
+    color: black;
+    background-color: rgb(228, 32, 32);
+    position: static;
+    font-size: 80px;
+    
+    
+}
+
+.container{
+    width: 60%;
+    font-size: large;
+    
+}
+
+.produto{
+    line-height: 200%;
+    line-height: 200%;
+}
