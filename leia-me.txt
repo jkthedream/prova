@@ -1,0 +1,5 @@
+Voce conseguiu criar os arquivos corretamente, porém ainda que visualmente algumas coisas funcionaram, seu HTML está completamente desestruturado algumas tags sem fechar, o cabecalho do HTML sem o doctype sem meta tags e principalmente você não abriu a tag <html></html>,
+contudo seu css está linkado e com algumas estilizações muito pobres. 
+Seu javaScript está completamente copiado de uma das atividades feitas, portanto não consigo avaliar sua compreenção do conteudo.
+vc ficou no nivel - 02 e sua nota é 2,0.
+
